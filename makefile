@@ -1,2 +1,0 @@
-default:
-	odin.exe build .

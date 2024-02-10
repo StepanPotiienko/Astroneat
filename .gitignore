@@ -1,3 +1,2 @@
-./main.exe
-./makefile
-./ols.json
+setup/*
+build/*
